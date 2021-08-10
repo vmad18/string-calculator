@@ -12,7 +12,7 @@ The code is able to interpret:
 - log base 10 and natural log (ln)
 - Parentheses 
 - Order of operations 
-- Mathematical constants: "pi", "phi", and e  
+- Mathematical constants: "pi", "phi", and "e"  
 
 # Example
 Passing in a string such as "sin(pi/2)" or if in degree mode "sin(90)" would return, of course, 1. 
