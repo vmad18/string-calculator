@@ -1,4 +1,4 @@
-package mod.quizbot.me.Calculator;
+package Calculator;
 
 public class CalculatorSettings {
 
