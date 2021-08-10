@@ -13,7 +13,7 @@ The code is able to interpret:
 - Parentheses 
 - Order of operations 
 - Mathematical constants: "pi", "phi", and e  
-- 
+
 # Example
 Passing in a string such as "sin(pi/2)" or if in degree mode "sin(90)" would return, of course, 1. 
 More complex equations such as "sin(sin(cos(3pi/4))) * ln(e^10) + 72" would return: 65.951 (rounded). 
