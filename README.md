@@ -4,6 +4,7 @@ This calculator is able to interpret and solve string equations.
 # About
 
 This calculator was made for my mod "Hypickle Quiz Bot": https://github.com/vmad18/hypickle-quiz-bot
+
 It is like Wolfram Alpha's calculator however, not as advanced -as Wolfram's- and still may contain some bugs. 
 The reason for creating was because there was no available code anywhere else for a string based calculator. 
 
